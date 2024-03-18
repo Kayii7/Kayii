@@ -1,5 +1,4 @@
 # MeowMeowNeko
-[我的博客](https://kayii.moe)
 
 # 學習資料
 [Past Paper](https://dse.life/ppindex/)
