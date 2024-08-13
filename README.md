@@ -1,3 +1,5 @@
+# [返回主页](https://kayii.moe/)
+
 # Kayii&Ranying
 
 [共同网站](https://kayii.rany.ing/)
