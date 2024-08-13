@@ -5,9 +5,9 @@
 [rany.ing](https://rany.ing/)
 
 # 工具
-[背單詞網站]（https://ranying.xyz/Daily%20Word/KayiiWeb.html）
+[背單詞網站](https://ranying.xyz/Daily%20Word/KayiiWeb.html)
 
-[圖片取色器/拾色器]（https://www.jyshare.com/front-end/6214/#ca6bb9）
+[圖片取色器/拾色器](https://www.jyshare.com/front-end/6214/#ca6bb9)
 
 [拾色器](https://www.w3cschool.cn/tools/index?name=cpicker)
 
