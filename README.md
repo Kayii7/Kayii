@@ -13,6 +13,8 @@
 
 [拾色器](https://www.w3cschool.cn/tools/index?name=cpicker)
 
+ [死亡公司公墓](https://www.itjuzi.com/deathCompany)
+
 # 學習資料
 
 [Past Paper](https://dse.life/ppindex/)
