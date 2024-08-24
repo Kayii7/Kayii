@@ -15,6 +15,8 @@
 
  [死亡公司公墓](https://www.itjuzi.com/deathCompany)
 
+ [生日卡片生成器](https://card.pomodiary.com/happy-birthday-images)
+
 # 學習資料
 
 [Past Paper](https://dse.life/ppindex/)
