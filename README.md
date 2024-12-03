@@ -1,11 +1,5 @@
 # [返回主页](https://kayii.moe/)
 
-# Kayii&Ranying
-
-[共同网站](https://kayii.rany.ing/)
-
-[rany.ing](https://rany.ing/)
-
 # 工具
 [背單詞網站](https://rany.ing/DW/KayiiWeb.html)
 
