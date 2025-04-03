@@ -1,23 +1,16 @@
-# [返回主页](https://kayii.moe/)
+# [返回主页](https://kayii.lol/#)
 
 # 工具
-[背單詞網站](https://rany.ing/DW/KayiiWeb.html)
 
 [圖片取色器/拾色器](https://www.jyshare.com/front-end/6214/#ca6bb9)
 
 [拾色器](https://www.w3cschool.cn/tools/index?name=cpicker)
-
- [死亡公司公墓](https://www.itjuzi.com/deathCompany)
 
  [生日卡片生成器](https://card.pomodiary.com/happy-birthday-images)
 
 # 學習資料
 
 [Past Paper](https://dse.life/ppindex/)
-
-[math12](math12.md)
-
-[初中数学](7上.md)
 
 [輕鬆戰勝DSE 中文科！歷屆試題 (附解析)+操卷攻略](https://hk.amazingtalker.com/blog/zh-hk/hk-chi/64253/)
 
